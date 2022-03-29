@@ -1,0 +1,1 @@
+Minimum, maximum, mean and standard deviation for each component:

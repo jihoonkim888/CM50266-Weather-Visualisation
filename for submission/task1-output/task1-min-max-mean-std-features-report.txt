@@ -1,0 +1,10 @@
+Minimum, maximum, mean and standard deviation for each component:
+barometer-last-year Baro Min: 979.6 Max: 1035.6 Mean: 1010.0 Std: 9.86
+indoor-temperature-last-year Humidity Min: 37.0 Max: 59.0 Mean: 48.52 Std: 5.18
+indoor-temperature-last-year Temperature Min: 18.04 Max: 29.21 Mean: 21.83 Std: 2.06
+indoor-temperature-last-year Temperature_range (low) Min: 14.9 Max: 28.2 Mean: 20.56 Std: 2.4
+indoor-temperature-last-year Temperature_range (high) Min: 19.7 Max: 31.1 Mean: 23.53 Std: 1.7
+outside-temperature-last-year Temperature Min: -1.81 Max: 26.38 Mean: 11.14 Std: 5.35
+outside-temperature-last-year Temperature_range (low) Min: -4.1 Max: 18.7 Mean: 7.87 Std: 4.87
+outside-temperature-last-year Temperature_range (high) Min: 1.5 Max: 38.5 Mean: 15.52 Std: 7.02
+rainfall-last-year mm Min: 0.0 Max: 23.2 Mean: 1.55 Std: 3.32
